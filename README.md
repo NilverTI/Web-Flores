@@ -13,4 +13,3 @@ La página web es completamente responsiva y se adapta a cualquier dispositivo. 
 ## Autor
 - **Nilver TI**
 
-Agradecimientos especiales a la comunidad de **CodePen** y **Md Usman Ansari** por su inspiración y recursos.
