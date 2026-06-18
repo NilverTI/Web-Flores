@@ -1,14 +1,15 @@
 # VISTA WEB [FLORES.HTML](https://web-flores.netlify.app/)
 
-# Flores en HTML y CSS
+# Para mi amorchitooooo 
 
 Este proyecto presenta una animación de flores creada con HTML y CSS, inspirada por la popular tendencia en TikTok.
 
 ## Descripción
-La página web es completamente responsiva y se adapta a cualquier dispositivo. Los estilos y animaciones se pueden personalizar fácilmente a través del archivo de estilos principal (`style.css`). Este proyecto es perfecto para aquellos que buscan aprender o experimentar con animaciones CSS modernas.
+💘Más hermosa que las flores sos vos mi amor
+TE AMOOOO
 
 ## Créditos
 - Diseño original de la flor inspirado en [CodePen](https://codepen.io/Nilver-TI/pen/PoroWJa) por Md Usman Ansari.
 
 ## Autor
-- **Nilver TI**
+- Edu
